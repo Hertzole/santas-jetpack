@@ -1,0 +1,12 @@
+.vs/*
+Library/*
+Temp/*
+Builds/*
+UserSettings/*
+Logs/*
+obj/*
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.unityproj
